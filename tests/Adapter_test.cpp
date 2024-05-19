@@ -25,4 +25,7 @@ TEST(PlayerTest, TranslatorAttackAndDefense) {
     EXPECT_EQ("Foreign Center attack YaoMing\nForeign Center defense YaoMing\n", output);
 }
 
-
+int main(int argc, char **argv) {
+    ::testing::InitGoogleTest(&argc, argv);
+    return RUN_ALL_TESTS();
+}
