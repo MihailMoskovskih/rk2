@@ -19,3 +19,4 @@ set(SOURCES
 add_executable(Adapter ${SOURCES})
 
 enable_testing()
+add_subdirectory(tests)
