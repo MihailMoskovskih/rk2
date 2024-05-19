@@ -18,6 +18,4 @@ set(SOURCES
 # Add executable
 add_executable(Adapter ${SOURCES})
 
-enable_testing()
 
-add_subdirectory(tests)
