@@ -12,8 +12,12 @@ include_directories(${PROJECT_SOURCE_DIR})
 
 # Add source files
 set(SOURCES
-	adaper.cpp
+    adaper.cpp
 )
 
 # Add executable
 add_executable(Adapter ${SOURCES})
+
+enable_testing()
+
+add_subdirectory(tests)
