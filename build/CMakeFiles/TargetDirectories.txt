@@ -1,3 +1,4 @@
 /home/mihail/MihailMoskovskih/rk2/DesignPattern/adapter/build/CMakeFiles/Adapter.dir
+/home/mihail/MihailMoskovskih/rk2/DesignPattern/adapter/build/CMakeFiles/test.dir
 /home/mihail/MihailMoskovskih/rk2/DesignPattern/adapter/build/CMakeFiles/edit_cache.dir
 /home/mihail/MihailMoskovskih/rk2/DesignPattern/adapter/build/CMakeFiles/rebuild_cache.dir
