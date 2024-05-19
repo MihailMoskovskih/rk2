@@ -17,5 +17,3 @@ set(SOURCES
 
 # Add executable
 add_executable(Adapter ${SOURCES})
-
-add_subdirectory(test)
