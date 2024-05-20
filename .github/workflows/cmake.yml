@@ -36,7 +36,7 @@ jobs:
       run: ctest -C $BUILD_TYPE
       
     - name: Archive artifacts
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v2
       with:
         name: artifacts
         path:  |
