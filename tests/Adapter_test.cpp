@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "adaper.h"
+#include "adaper.cpp"
 
 TEST(PlayerTest, ForwardsAttack) {
     Forwards f("John");
