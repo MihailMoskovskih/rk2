@@ -1,4 +1,6 @@
 #include <gtest/gtest.h>
+#include "adapter.h"
+
 
 TEST(PlayerTest, ForwardsAttack) {
     Forwards f("John");
