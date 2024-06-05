@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-
+#include <adaper.h>
 TEST(PlayerTest, ForwardsAttack) {
     Forwards f("John");
     testing::internal::CaptureStdout();
